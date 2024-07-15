@@ -1,4 +1,7 @@
 # CODSOFT-TASK1.
+##LINK TO VIEW OUTPUT
+####****** https://docs.google.com/presentation/d/1ZqdHJnlV0RubY_0xgrjeaJfqA7urCsRVntPJxIBXTHA/edit?usp=sharing ******#######
+
 The Tic-Tac-Toe AI project aimed to develop an AI opponent that plays the classic game of Tic-Tac-Toe optimally against a human player. The project utilized fundamental concepts from game theory and implemented the Minimax algorithm with Alpha-Beta pruning to ensure the AI's unbeatable performance.
 
 Effort and Approach
